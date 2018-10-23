@@ -11,8 +11,8 @@ namespace ReconhecimentoPadroesDemo
     class Program
     {
         //Chaves que vem do portal do Azure
-        const string trainingApiKey = "7c0e4f203da244f89067f4d6dc5aca18";
-        const string predictionApiKey = "cd3d1c14247a4138af9f2b1e9695e0a3";
+        const string trainingApiKey = "";
+        const string predictionApiKey = "";
 
         static void Main(string[] args)
         {
